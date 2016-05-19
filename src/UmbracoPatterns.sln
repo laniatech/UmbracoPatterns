@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoPatterns", "UmbracoPatterns\UmbracoPatterns.csproj", "{245DDB92-5CA0-48AC-A70D-1A23BE81BC85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoPatterns.Core", "UmbracpPatterns.Core\UmbracoPatterns.Core.csproj", "{59228F5C-891C-44C9-AF43-BC2914A806EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{245DDB92-5CA0-48AC-A70D-1A23BE81BC85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{245DDB92-5CA0-48AC-A70D-1A23BE81BC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{245DDB92-5CA0-48AC-A70D-1A23BE81BC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{245DDB92-5CA0-48AC-A70D-1A23BE81BC85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59228F5C-891C-44C9-AF43-BC2914A806EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59228F5C-891C-44C9-AF43-BC2914A806EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59228F5C-891C-44C9-AF43-BC2914A806EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59228F5C-891C-44C9-AF43-BC2914A806EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
